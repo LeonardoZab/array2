@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+    color: olivedrab;
+    font-family: 'Franklin Gothic Medium';
+}
+
+label{
+    color: black;
+    font-style: italic;
+}
